@@ -1,0 +1,15 @@
+.tralala{
+	
+	background:#9bbcd1;
+	color:white;
+	border:2px solid #ce77ed;
+}
+body {background: linear-gradient(#a2cafc, #82ed77);}
+body{
+ font-family: Georgia, "Times New Roman",
+        Times, serif;
+font-style: normal;
+
+}
+*{margin-left:15px};
+@media all and (max-width: 500px)
